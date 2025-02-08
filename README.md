@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Omkar Jarad</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🌱 I’m currently learning **DSA**,**Spring**,**Spring Boot**
+- 🌱 I’m currently learning **DSA**,**Docker**,**Kubernetes**
 
 - 👨‍💻 My portfolio [https://omkarjarad.netlify.app/](https://omkarjarad.netlify.app/)
 
-- 💬 Ask me about **react, html, css, javascript, c++, node.js, mongodb, sql, java, python**
+- 💬 Ask me about **react, html, css, javascript, c++, node.js, mongodb, sql, java, python, Spring, Spring boot**
 
 - 📫 How to reach me **omkarjarad2019@gmail.com**
 
