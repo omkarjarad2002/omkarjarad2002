@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omkar Jarad</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">I am working as a full stack developer at Tata Consultancy Services in India</h3>
 
-- 🌱 I’m currently learning **DSA**,**Docker**,**Kubernetes**
+- 🌱 I’m currently learning **DSA**, **Agentic AI**
 
 - 👨‍💻 My portfolio [https://omkarjarad.netlify.app/](https://omkarjarad.netlify.app/)
 
