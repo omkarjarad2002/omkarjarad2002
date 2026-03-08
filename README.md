@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **omkarjarad2019@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XuH0rVi3rcOX3IEppINKaj0nhqJQHt9t/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hlnm9HLz0L0vCP4RoXgEGN2jhVqmkfOm/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
